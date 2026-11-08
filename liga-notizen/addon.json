@@ -8,7 +8,7 @@
     },
     "author": "Torsten Hofmann",
     "license": "GPL-3.0-only",
-    "homepage": "https://github.com/webfalter/liga-notizen/tree/main/liga-notizen",
+    "homepage": "https://github.com/lmonext-org/lmonext_addon-liga-notizen/",
     "icon": "📝",
     "min_core_version": "1.9.2",
     "dependencies": [],
